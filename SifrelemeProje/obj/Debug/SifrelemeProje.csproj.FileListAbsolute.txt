@@ -1,0 +1,11 @@
+C:\Users\kadir\Desktop\visual studio projelerim\SifrelemeProje\SifrelemeProje\bin\Debug\SifrelemeProje.exe.config
+C:\Users\kadir\Desktop\visual studio projelerim\SifrelemeProje\SifrelemeProje\bin\Debug\SifrelemeProje.exe
+C:\Users\kadir\Desktop\visual studio projelerim\SifrelemeProje\SifrelemeProje\bin\Debug\SifrelemeProje.pdb
+C:\Users\kadir\Desktop\visual studio projelerim\SifrelemeProje\SifrelemeProje\obj\Debug\SifrelemeProje.csproj.AssemblyReference.cache
+C:\Users\kadir\Desktop\visual studio projelerim\SifrelemeProje\SifrelemeProje\obj\Debug\SifrelemeProje.csproj.SuggestedBindingRedirects.cache
+C:\Users\kadir\Desktop\visual studio projelerim\SifrelemeProje\SifrelemeProje\obj\Debug\SifrelemeProje.Form1.resources
+C:\Users\kadir\Desktop\visual studio projelerim\SifrelemeProje\SifrelemeProje\obj\Debug\SifrelemeProje.Properties.Resources.resources
+C:\Users\kadir\Desktop\visual studio projelerim\SifrelemeProje\SifrelemeProje\obj\Debug\SifrelemeProje.csproj.GenerateResource.cache
+C:\Users\kadir\Desktop\visual studio projelerim\SifrelemeProje\SifrelemeProje\obj\Debug\SifrelemeProje.csproj.CoreCompileInputs.cache
+C:\Users\kadir\Desktop\visual studio projelerim\SifrelemeProje\SifrelemeProje\obj\Debug\SifrelemeProje.exe
+C:\Users\kadir\Desktop\visual studio projelerim\SifrelemeProje\SifrelemeProje\obj\Debug\SifrelemeProje.pdb
